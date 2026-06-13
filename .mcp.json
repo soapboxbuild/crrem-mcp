@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crrem": {
+      "type": "http",
+      "url": "https://crrem-mcp.mcp.soapbox.build/mcp"
+    }
+  }
+}
